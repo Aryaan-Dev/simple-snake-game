@@ -17,7 +17,7 @@ Get this game running on your PC with these easy steps:
    Grab the code:
 
    ```bash
-   git clone https://github.com/yourusername/Snake-Game.git
+   git clone https://github.com/Aryaan-Dev/Snake-Game.git
    cd Snake-Game
    ```
 
